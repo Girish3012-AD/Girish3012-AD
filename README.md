@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Girish Prakash Mahajan! 👋
 
-<!--
-**Girish3012-AD/Girish3012-AD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science & Data Science student (B.Tech '28) at R.C. Patel Institute of Technology and the Co-Founder of ** i Labs**. I am passionate about building AI-driven solutions, scalable full-stack applications, and tackling algorithmic challenges.
 
-Here are some ideas to get you started:
+### 🚀 What I'm currently working on
+* **SATQuery AI:** An agentic vision-language assistant for multimodal remote-sensing satellite image analysis, developed for the Smart India Hackathon 2026.
+* **Dynamic ST-GNN:** A Spatio-Temporal Graph Neural Network for real-time transaction risk scoring and anti-money laundering.
+* **Shirpur.com (Town OS):** A hyper-local multi-city web application serving student room listings, campus boards, and local business directories.
+* **CreatorHub:** A private freelance management platform for digital marketing agencies, built with Next.js 15, Tailwind v4, and Supabase.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, Java , SQL, C, TypeScript
+* **AI/ML & Vision:** PyTorch, Hugging Face, OpenCV, YOLOv8, Scikit-learn, Pandas, NumPy, ONNX Runtime
+* **Web & Backend:** React, Next.js, Node.js, FastAPI, Flask, Streamlit
+* **Databases & Cloud:** MySQL, Memgraph, Supabase, Docker, Oracle Cloud VPS
+
+### 📫 Let's Connect
+* [LinkedIn](https://www.linkedin.com/in/girish-mahajan-1ab914301/)
+* [LeetCode](https://leetcode.com/u/GIRISHMAHAJAN/)
+* [Devpost](https://devpost.com/prakashmahajan075)
+* [AWS Builder Center](https://builder.aws.com/community/@girish076)
