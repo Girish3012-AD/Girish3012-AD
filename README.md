@@ -2,7 +2,7 @@
 
 I am a Computer Science & Data Science student (B.Tech '28) at R.C. Patel Institute of Technology and the Co-Founder of ** i Labs**. I am passionate about building AI-driven solutions, scalable full-stack applications, and tackling algorithmic challenges.
 
-### 🚀 What I'm currently working on
+### 🚀 What I Have Completed-->
 * **SATQuery AI:** An agentic vision-language assistant for multimodal remote-sensing satellite image analysis, developed for the Smart India Hackathon 2026.
 * **Dynamic ST-GNN:** A Spatio-Temporal Graph Neural Network for real-time transaction risk scoring and anti-money laundering.
 * **MockInterviewer**  The AI Mock Interview Copilot is a full-stack application that simulates a realistic, voice-enabled technical interview. Powered by Google's Gemini AI, the platform acts as "Alex", a Senior Technical Recruiter, to evaluate candidates based on their resume and the target job description.
